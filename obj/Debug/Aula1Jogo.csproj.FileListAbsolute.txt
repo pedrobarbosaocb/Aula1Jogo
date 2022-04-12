@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\bin\Debug\Aula1Jogo.exe.config
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\bin\Debug\Aula1Jogo.exe
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\bin\Debug\Aula1Jogo.pdb
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\obj\Debug\Aula1Jogo.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\obj\Debug\Aula1Jogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\obj\Debug\Aula1Jogo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\obj\Debug\Aula1Jogo.exe
+C:\Users\USER\source\repos\Aula1Jogo\Aula1Jogo\obj\Debug\Aula1Jogo.pdb
